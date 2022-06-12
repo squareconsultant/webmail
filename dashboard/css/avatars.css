@@ -1,0 +1,109 @@
+/* Avatars */
+[data-avatar-color="a"] .avatar-letter-image,
+[data-avatar-color="b"] .avatar-letter-image,
+[data-avatar-color="c"] .avatar-letter-image,
+[data-avatar-color="d"] .avatar-letter-image,
+[data-avatar-color="1"] .avatar-letter-image,
+[data-letter-avatar="a"],
+[data-letter-avatar="b"],
+[data-letter-avatar="c"],
+[data-letter-avatar="d"],
+[data-letter-avatar="1"] {
+    background: #0cbde3;
+    background: -webkit-linear-gradient(to bottom right, #0cbde3, #17ead9);
+    background: linear-gradient(to bottom right, #0cbde3, #17ead9);
+}
+
+[data-avatar-color="e"] .avatar-letter-image,
+[data-avatar-color="f"] .avatar-letter-image,
+[data-avatar-color="g"] .avatar-letter-image,
+[data-avatar-color="h"] .avatar-letter-image,
+[data-avatar-color="2"] .avatar-letter-image,
+[data-letter-avatar="e"],
+[data-letter-avatar="f"],
+[data-letter-avatar="g"],
+[data-letter-avatar="h"],
+[data-letter-avatar="2"] {
+    background: #08d4c4;
+    background: -webkit-linear-gradient(to bottom right, #08d4c4, #33ff99);
+    background: linear-gradient(to bottom right, #08d4c4, #33ff99);
+}
+
+[data-avatar-color="i"] .avatar-letter-image,
+[data-avatar-color="j"] .avatar-letter-image,
+[data-avatar-color="k"] .avatar-letter-image,
+[data-avatar-color="l"] .avatar-letter-image,
+[data-avatar-color="3"] .avatar-letter-image,
+[data-letter-avatar="i"],
+[data-letter-avatar="j"],
+[data-letter-avatar="k"],
+[data-letter-avatar="l"],
+[data-letter-avatar="3"] {
+    background: #fc6767;
+    background: -webkit-linear-gradient(to bottom right, #fc6767, #ec008c);
+    background: linear-gradient(to bottom right, #fc6767, #ec008c);
+}
+
+[data-avatar-color="m"] .avatar-letter-image,
+[data-avatar-color="n"] .avatar-letter-image,
+[data-avatar-color="o"] .avatar-letter-image,
+[data-avatar-color="p"] .avatar-letter-image,
+[data-avatar-color="4"] .avatar-letter-image,
+[data-letter-avatar="m"],
+[data-letter-avatar="n"],
+[data-letter-avatar="o"],
+[data-letter-avatar="p"],
+[data-letter-avatar="4"] {
+    background: #fe8c00;
+    background: -webkit-linear-gradient(to bottom right, #fe8c00, #f84c00);
+    background: linear-gradient(to bottom right, #fe8c00, #f84c00);
+}
+
+[data-avatar-color="q"] .avatar-letter-image,
+[data-avatar-color="r"] .avatar-letter-image,
+[data-avatar-color="s"] .avatar-letter-image,
+[data-avatar-color="t"] .avatar-letter-image,
+[data-avatar-color="5"] .avatar-letter-image,
+[data-letter-avatar="q"],
+[data-letter-avatar="r"],
+[data-letter-avatar="s"],
+[data-letter-avatar="t"],
+[data-letter-avatar="5"] {
+    background: #08d4c4;
+    background: -webkit-linear-gradient(to bottom right, #08d4c4, #33ff99);
+    background: linear-gradient(to bottom right, #08d4c4, #33ff99);
+}
+
+[data-avatar-color="u"] .avatar-letter-image,
+[data-avatar-color="v"] .avatar-letter-image,
+[data-avatar-color="w"] .avatar-letter-image,
+[data-avatar-color="x"] .avatar-letter-image,
+[data-avatar-color="6"] .avatar-letter-image,
+[data-letter-avatar="u"],
+[data-letter-avatar="v"],
+[data-letter-avatar="w"],
+[data-letter-avatar="x"],
+[data-letter-avatar="6"] {
+    background: #f7c308;
+    background: -webkit-linear-gradient(to bottom right, #f7c308, #ffe000);
+    background: linear-gradient(to bottom right, #f7c308, #ffe000);
+}
+
+[data-avatar-color="y"] .avatar-letter-image,
+[data-avatar-color="z"] .avatar-letter-image,
+[data-avatar-color="7"] .avatar-letter-image,
+[data-avatar-color="8"] .avatar-letter-image,
+[data-avatar-color="9"] .avatar-letter-image,
+[data-avatar-color="0"] .avatar-letter-image,
+[data-letter-avatar="y"],
+[data-letter-avatar="z"],
+[data-letter-avatar="7"],
+[data-letter-avatar="8"],
+[data-letter-avatar="9"],
+[data-letter-avatar="0"] {
+    background: #8624dc;
+    background: -webkit-linear-gradient(to bottom right, #8624dc, #b720ed);
+    background: linear-gradient(to bottom right, #8624dc, #b720ed);
+}
+
+[data-avatar-color], [data-letter-avatar] { text-transform: uppercase; }
